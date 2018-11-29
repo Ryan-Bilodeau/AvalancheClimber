@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 6281b34ddc711411598f2b1f14d7f0ec
+timeCreated: 1499898060
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ShippingContainer1Multiple_0
+    21300002: ShippingContainer1Multiple_1
+    21300004: ShippingContainer1Multiple_2
+    21300006: ShippingContainer1Multiple_3
+    21300008: ShippingContainer1Multiple_4
+    21300010: ShippingContainer1Multiple_5
+    21300012: ShippingContainer1Multiple_6
+    21300014: ShippingContainer1Multiple_7
+    21300016: ShippingContainer1Multiple_8
+    21300018: ShippingContainer1Multiple_9
+    21300020: ShippingContainer1Multiple_10
+    21300022: ShippingContainer1Multiple_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1599
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_1
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1599
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_2
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1599
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1119
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1119
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_5
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1119
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 639
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 639
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_8
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 639
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_10
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 159
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShippingContainer1Multiple_11
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 159
+        width: 572
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

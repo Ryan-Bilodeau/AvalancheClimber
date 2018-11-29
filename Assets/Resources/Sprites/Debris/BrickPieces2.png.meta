@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 0b145787502b14f83a21363647bf9268
+timeCreated: 1499898840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BrickPieces2_0
+    21300002: BrickPieces2_1
+    21300004: BrickPieces2_2
+    21300006: BrickPieces2_3
+    21300008: BrickPieces2_4
+    21300010: BrickPieces2_5
+    21300012: BrickPieces2_6
+    21300014: BrickPieces2_7
+    21300016: BrickPieces2_8
+    21300018: BrickPieces2_9
+    21300020: BrickPieces2_10
+    21300022: BrickPieces2_11
+    21300024: BrickPieces2_12
+    21300026: BrickPieces2_13
+    21300028: BrickPieces2_14
+    21300030: BrickPieces2_15
+    21300032: BrickPieces2_16
+    21300034: BrickPieces2_17
+    21300036: BrickPieces2_18
+    21300038: BrickPieces2_19
+    21300040: BrickPieces2_20
+    21300042: BrickPieces2_21
+    21300044: BrickPieces2_22
+    21300046: BrickPieces2_23
+    21300048: BrickPieces2_24
+    21300050: BrickPieces2_25
+    21300052: BrickPieces2_26
+    21300054: BrickPieces2_27
+    21300056: BrickPieces2_28
+    21300058: BrickPieces2_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrickPieces2_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2169
+        width: 372
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2179
+        width: 252
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_2
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2179
+        width: 312
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_3
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2179
+        width: 432
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_4
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2199
+        width: 372
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1809
+        width: 372
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1829
+        width: 372
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_7
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1829
+        width: 492
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_8
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1809
+        width: 432
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_9
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1849
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1399
+        width: 372
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1509
+        width: 432
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_12
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1449
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_13
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1449
+        width: 252
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_14
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1459
+        width: 432
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1059
+        width: 252
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_16
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1049
+        width: 372
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_17
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1059
+        width: 422
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_18
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1059
+        width: 372
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_19
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1109
+        width: 492
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 699
+        width: 492
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_21
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 649
+        width: 372
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 629
+        width: 312
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_23
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 659
+        width: 372
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_24
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 709
+        width: 372
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 159
+        width: 492
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_26
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 149
+        width: 432
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_27
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 89
+        width: 372
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_28
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 159
+        width: 492
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BrickPieces2_29
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 159
+        width: 492
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
